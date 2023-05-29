@@ -1,10 +1,8 @@
 import LogoutCard from "@/features/profile/LogoutCard";
-import { gql } from "@apollo/client";
 import { cx } from "class-variance-authority";
 import {
   Logout,
   MessageText1,
-  NotificationBing,
   Profile2User,
   Video,
 } from "iconsax-react";
