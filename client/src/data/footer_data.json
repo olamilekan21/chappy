@@ -1,0 +1,78 @@
+[
+  {
+    "title": "What we do",
+    "list": [
+      {
+        "title": "Feature",
+        "link": "/"
+      },
+      {
+        "title": "Blog",
+        "link": "/blog"
+      },
+      {
+        "title": "Stories",
+        "link": "/stories"
+      },
+      {
+        "title": "For Business",
+        "link": "/business"
+      }
+    ]
+  },
+  {
+    "title": "Who we are",
+    "list": [
+      {
+        "title": "About us",
+        "link": "/aboutus"
+      },
+      {
+        "title": "Careers",
+        "link": "/careers"
+      },
+      {
+        "title": "Brand Center",
+        "link": "/stories"
+      },
+      {
+        "title": "Privacy",
+        "link": "/privacy"
+      }
+    ]
+  },
+  {
+    "title": "Use Chappy",
+    "list": [
+      {
+        "title": "Android",
+        "link": "/android"
+      },
+      {
+        "title": "IPhone",
+        "link": "/iphone"
+      },
+      {
+        "title": "Mac/PC",
+        "link": "/"
+      },
+      {
+        "title": "WhatsApp Web",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "Need help?",
+    "list": [
+      {
+        "title": "Contact Us",
+        "link": "/"
+      },
+      {
+        "title": "Help Center",
+        "link": "/"
+      }
+    ]
+  }
+]

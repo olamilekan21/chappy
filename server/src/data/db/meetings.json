@@ -1,0 +1,172 @@
+[
+  {
+    "id": "SFMxaI2n5Xa8o-2R9x3SO",
+    "name": "Client Meeting - For Website",
+    "meetingDate": "2023-02-24T11:00:00.000Z",
+    "joinType": "selected",
+    "callType": "voice",
+    "createdAt": "2023-02-23T15:43:58.204Z",
+    "updatedAt": "2023-02-23T15:43:58.204Z",
+    "meetingsParticipants": [
+      {
+        "meetingId": "SFMxaI2n5Xa8o-2R9x3SO",
+        "uid": "3d1914fd-1630-4ee9-8990-3dda80ffb21c",
+        "admin": false,
+        "id": "fedc512e-bb3d-419a-b4f6-a82137d99a00"
+      },
+      {
+        "meetingId": "SFMxaI2n5Xa8o-2R9x3SO",
+        "uid": "1c97a71c-0bdc-4c3c-aa2e-2541f830cbdb",
+        "admin": false,
+        "id": "e47dc3dd-8cf5-48f7-90f4-1ba0ae189785"
+      },
+      {
+        "meetingId": "SFMxaI2n5Xa8o-2R9x3SO",
+        "uid": "bb7c23bf-9ceb-4668-9f4d-a4bf77b5cd80",
+        "admin": true,
+        "id": "bbef3208-a989-48c4-a4d2-bfcc1b1c4e83"
+      }
+    ]
+  },
+  {
+    "id": "BAiaEdXP0D7kigAgQ7BBt",
+    "name": "Election Day - Vote Peter Obi",
+    "meetingDate": "2023-02-25T07:30:00.000Z",
+    "joinType": "selected",
+    "callType": "video",
+    "createdAt": "2023-02-23T15:44:53.884Z",
+    "updatedAt": "2023-02-23T15:44:53.884Z",
+    "meetingsParticipants": [
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "0976623b-09ff-4f44-8563-5748a473d95a",
+        "admin": false,
+        "id": "20403c22-1a36-49f1-bf0d-1e71972d3faf"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "1d55b2a1-154a-4809-b0e6-783fd88a3344",
+        "admin": false,
+        "id": "6b617ac8-ca26-45b2-8a6e-799e4707fd4d"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "1b6e2618-8b4f-4edb-a5ef-f68a9fa16a70",
+        "admin": false,
+        "id": "eb3e400a-081b-4569-9430-5bc3b1dcfa1a"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "0c3a7c8a-e972-4a51-8c25-efd13428731f",
+        "admin": false,
+        "id": "fcc2ab25-1e06-4c23-aee1-f11f1040201d"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "1a0519b6-de36-40c1-b614-aa0235f7a38a",
+        "admin": false,
+        "id": "0c52798c-d825-47bb-a95c-23ee3ae67298"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "20880a51-c704-4bb6-a06e-0f881fcdd5c8",
+        "admin": false,
+        "id": "690acc22-f3c8-45f3-802f-bdd4ee634cbe"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "1c97a71c-0bdc-4c3c-aa2e-2541f830cbdb",
+        "admin": false,
+        "id": "83d3409a-87eb-434a-b1b4-a7e2a32ac00b"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "3d1914fd-1630-4ee9-8990-3dda80ffb21c",
+        "admin": false,
+        "id": "55587bd6-2cd9-41aa-a689-f11a669c3532"
+      },
+      {
+        "meetingId": "BAiaEdXP0D7kigAgQ7BBt",
+        "uid": "bb7c23bf-9ceb-4668-9f4d-a4bf77b5cd80",
+        "admin": true,
+        "id": "a9bf29f8-c68e-4128-afd8-fccadec40731"
+      }
+    ]
+  },
+  {
+    "id": "xo4uDjtZgWx4q_804Etki",
+    "name": "Prayer Meeting - Glt",
+    "meetingDate": "2023-03-05T17:00:00.000Z",
+    "joinType": "selected",
+    "callType": "voice",
+    "createdAt": "2023-02-23T16:07:56.156Z",
+    "updatedAt": "2023-02-23T16:07:56.156Z",
+    "meetingsParticipants": [
+      {
+        "meetingId": "xo4uDjtZgWx4q_804Etki",
+        "uid": "0976623b-09ff-4f44-8563-5748a473d95a",
+        "admin": false,
+        "id": "044f8332-f5ad-49d3-9399-b7ed793a1703"
+      },
+      {
+        "meetingId": "xo4uDjtZgWx4q_804Etki",
+        "uid": "1b6e2618-8b4f-4edb-a5ef-f68a9fa16a70",
+        "admin": false,
+        "id": "71ef21f0-efb8-41d6-a1fe-fdc589b13a84"
+      },
+      {
+        "meetingId": "xo4uDjtZgWx4q_804Etki",
+        "uid": "3d1914fd-1630-4ee9-8990-3dda80ffb21c",
+        "admin": false,
+        "id": "a17c9d33-a0ae-4997-acac-fbedd0901b6f"
+      },
+      {
+        "meetingId": "xo4uDjtZgWx4q_804Etki",
+        "uid": "bb7c23bf-9ceb-4668-9f4d-a4bf77b5cd80",
+        "admin": true,
+        "id": "7cf2ccb7-4dc0-4240-a3f6-bf385f812bbd"
+      }
+    ]
+  },
+  {
+    "id": "GGisfncLBuU4F5F4mmSzc",
+    "name": "Investor Meeting - For Chappy",
+    "meetingDate": "2023-03-10T09:31:00.000Z",
+    "joinType": "selected",
+    "callType": "video",
+    "createdAt": "2023-02-23T16:08:55.959Z",
+    "updatedAt": "2023-02-23T16:08:55.959Z",
+    "meetingsParticipants": [
+      {
+        "meetingId": "GGisfncLBuU4F5F4mmSzc",
+        "uid": "0976623b-09ff-4f44-8563-5748a473d95a",
+        "admin": false,
+        "id": "be73aa69-281c-458c-8552-d69ee4dbdcd3"
+      },
+      {
+        "meetingId": "GGisfncLBuU4F5F4mmSzc",
+        "uid": "1d55b2a1-154a-4809-b0e6-783fd88a3344",
+        "admin": false,
+        "id": "3ecef87b-e8ea-43f9-b4b5-c870eb0fc2d5"
+      },
+      {
+        "meetingId": "GGisfncLBuU4F5F4mmSzc",
+        "uid": "1c97a71c-0bdc-4c3c-aa2e-2541f830cbdb",
+        "admin": false,
+        "id": "c86c4564-51f2-4260-af41-e01b5cc73381"
+      },
+      {
+        "meetingId": "GGisfncLBuU4F5F4mmSzc",
+        "uid": "20880a51-c704-4bb6-a06e-0f881fcdd5c8",
+        "admin": false,
+        "id": "97977dd0-f359-4ddc-b7f0-3fefa1d47ee1"
+      },
+      {
+        "meetingId": "GGisfncLBuU4F5F4mmSzc",
+        "uid": "bb7c23bf-9ceb-4668-9f4d-a4bf77b5cd80",
+        "admin": true,
+        "id": "f3362a70-a730-4791-b59b-e41c1e7a7cf2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+    transition: all 300ms ease;
+    margin: 0;
+    padding: 0;
+  }
+  *::-webkit-scrollbar {
+    @apply w-[5px] h-[5px];
+  }
+
+  *::-webkit-scrollbar-thumb {
+    @apply rounded-[30px] bg-primary;
+  }
+
+  *::-webkit-scrollbar-track {
+    @apply bg-transparent relative top-0 right-0;
+  }
+
+  *::-webkit-scrollbar-track-piece {
+    @apply bg-transparent;
+  }
+
+  *::-ms-scrollbar {
+    @apply w-[5px] h-[5px];
+  }
+  .click {
+    @apply hover:scale-105 active:scale-95 transition-all duration-300 group-hover:scale-105 group-active:scale-95;
+  }
+
+  body {
+    @apply bg-white dark:bg-dark;
+  }
+}
